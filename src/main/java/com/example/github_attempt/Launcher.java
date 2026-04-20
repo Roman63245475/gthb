@@ -7,6 +7,7 @@ public class Launcher {
         System.out.println("hey");
         System.out.println("idi nahuy");
         System.out.println("tema zdarova");
+        System.out.println("darou!");
         Application.launch(HelloApplication.class, args);
     }
 
